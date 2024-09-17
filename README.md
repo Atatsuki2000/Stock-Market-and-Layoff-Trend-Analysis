@@ -1,5 +1,3 @@
-# DSCI 550 Final Project
-
 ## Name of the Project
 
 Stock Market and Layoff Trend Analysis
