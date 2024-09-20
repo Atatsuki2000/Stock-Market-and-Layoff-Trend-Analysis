@@ -2,10 +2,6 @@
 
 Stock Market and Layoff Trend Analysis
 
-## Team Members
-
-Ming Shan Lee, Yun Jing Chang, Takaaki Morita, Hasti Sodavadia
-
 ## Instructions on how to redirect the repository before running project
 
 Before running any code, please redirect your repository to `src`
